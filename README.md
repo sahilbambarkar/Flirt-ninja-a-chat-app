@@ -1,5 +1,5 @@
 
-## 📱 Chat App Overview
+## 📱 Flirt Ninja
 
 Welcome to the **Chat App:Flirt Ninja** built with the MERN stack, Socket.IO, Tailwind CSS, and DaisyUI! This application allows users to engage in real-time conversations, manage their chat history, and enjoy a sleek interface.
 
