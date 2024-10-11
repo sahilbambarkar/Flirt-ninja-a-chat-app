@@ -16,7 +16,7 @@ Welcome to the **Chat App:Flirt Ninja** built with the MERN stack, Socket.IO, Ta
 - **Socket.IO**: For real-time communication
 - **Tailwind CSS**: For responsive design
 - **DaisyUI**: For beautiful UI components
-- **Avatar API: For Random avatar generation based on gender
+- **Avatar API**: For Random avatar generation based on gender
 
 ## 📦 Installation
 
