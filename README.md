@@ -55,9 +55,7 @@ Utilizing **Tailwind CSS** and **DaisyUI**, the application features:
 - User authentication with JWT tokens 🔑
 - Secure WebSocket connections for real-time messaging 🔒
 
-## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
