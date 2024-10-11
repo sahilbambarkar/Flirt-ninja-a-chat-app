@@ -22,8 +22,8 @@ Welcome to the **Chat App:Flirt Ninja** built with the MERN stack, Socket.IO, Ta
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sahilbambarkar/chat-app.git
-   cd chat-app
+   git clone https://github.com/sahilbambarkar/PRODIGY_FS_04.git
+   cd PRODIGY_FS_04
    ```
 
 2. Install dependencies:
