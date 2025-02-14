@@ -22,8 +22,8 @@ Welcome to the **Chat App:Flirt Ninja** built with the MERN stack, Socket.IO, Ta
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sahilbambarkar/PRODIGY_FS_04.git
-   cd PRODIGY_FS_04
+   git clone https://github.com/sahilbambarkar/Flirt-ninja-a-chat-app.git
+   cd Flirt-ninja-a-chat-app
    ```
 
 2. Install dependencies:
@@ -33,6 +33,7 @@ Welcome to the **Chat App:Flirt Ninja** built with the MERN stack, Socket.IO, Ta
 
 3. Set up environment variables in a `.env` file:
    ```
+   PORT = 8080
    MONGO_URI=your_mongodb_uri
    JWT_SECRET=your_jwt_secret
    ```
