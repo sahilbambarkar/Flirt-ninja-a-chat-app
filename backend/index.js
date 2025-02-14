@@ -18,7 +18,9 @@ app.use(express.json());
 app.use(cookieParser());
 const corsOption={
     origin:'https://flirt-ninja-chat-app--nine.vercel.app',
-    credentials:true
+    credentials:true,
+    methods: ['GET', 'POST', 'OPTIONS'],
+    allowedHeaders: ['Content-Type'],
 };
 app.use(cors(corsOption)); 
 
