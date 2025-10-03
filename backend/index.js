@@ -19,6 +19,7 @@ app.use(cookieParser());
 const corsOption={
     origin:'https://flirt-ninja-chat-app--nine.vercel.app',
     credentials:true,
+    optionsSuccessStatus: 200, 
     methods: ['GET', 'POST', 'OPTIONS'],
     allowedHeaders: ['Content-Type'],
 };
